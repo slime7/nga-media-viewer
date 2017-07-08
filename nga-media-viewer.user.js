@@ -4,7 +4,7 @@
 // @version      0.1
 // @description  查看附件中的视频文件。
 // @author       Slime7
-// @downloadURL  https://github.com/slime7/nga-media-viewer/nga-media-viewer.user.js
+// @downloadURL  https://github.com/slime7/nga-media-viewer/raw/master/nga-media-viewer.user.js
 // @homepageURL  https://github.com/slime7/nga-media-viewer
 // @match        *://bbs.nga.cn/read.php*
 // @match        *://bbs.ngacn.cc/read.php*
